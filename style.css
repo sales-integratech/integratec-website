@@ -28,7 +28,7 @@ nav a{color:#fff;text-decoration:none;font-weight:500}
 .menu-toggle{display:none;background:none;border:none;color:#fff;font-size:1.4rem}
 
 /* Hero */
-.hero{height:88vh;display:flex;align-items:center;justify-content:center;background-image:linear-gradient(180deg, rgba(13,71,161,0.45), rgba(25,118,210,0.25)), url('https://integratec-website.vercel.app/images/connection-bond-connect-networking-togetherness-concept.jpg&s=placeholder');background-size:cover;background-position:center;padding-top:72px}
+.hero{height:88vh;display:flex;align-items:center;justify-content:center;background-image:linear-gradient(180deg, rgba(13,71,161,0.45), rgba(25,118,210,0.25)), url('https://img.freepik.com/free-photo/connection-bond-connect-networking-togetherness-concept_53876-121224.jpg?t=st=1760719188~exp=1760722788~hmac=883268a80f49c88a325a7d80fe73d6a4ee3067e03351a8f5e82d2d637ec7f4cb&w=1480&s=placeholder');background-size:cover;background-position:center;padding-top:72px}
 .hero-overlay{width:100%;text-align:center;color:#fff;padding:40px}
 .hero-content{max-width:900px;padding:28px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));box-shadow:0 8px 30px rgba(13,71,161,0.18)}
 .hero-content h2{font-size:2.2rem;margin-bottom:10px;text-shadow:0 6px 18px rgba(0,0,0,0.35)}
